@@ -1,6 +1,283 @@
-{background-color: FFC8E3;}
-img.a{width: 165 px;}
-td.a{color: 50 pt; background color: CC3399; font family: Times New Roman; font style: normal; font size: .80 em;}
-td.b{color: 50 pt; background color: FFC8E3; width: 100 px; text-align: left; border-left: 6px; border-right; padding-top: 1 em; padding bottom: 1 em;}
-td.c{width: 100 px; text-align: center; color: 50 pt; background color: FFFFCC; border-right: 6px;}
-td.d{width: px; text-align: ; background color: ; border-right: ;}
+table {
+	border: none;
+	max-width: 1000px;
+	width: 1559px;
+	border-spacing: none;
+}
+
+
+td1 {
+	color: blue;
+
+}
+
+td2 {
+	color: brown;
+
+}
+
+h1 {
+	font-family: "Ariel", sans-serif;
+	color: #A12B76;
+	float: right;
+	text-shadow: 2px 4px 4px #72C3EC;
+	font-weight: 10px;
+	position: relative;
+	right: 650px;
+	top: 30px;
+}
+
+
+
+td4 {
+	padding: 25px;
+	padding-bottom: 130px;
+	padding-top: 35px;
+
+	border-radius: 20px;
+	background-color: #E6E6FA;
+	
+	padding-left: 40px;
+	
+	
+}
+
+
+td5 {
+	color: #DFE586;
+
+}
+
+td6 {
+	color: #E6E6FA;
+
+}
+
+td7 {
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	left: -11px;
+	background-color: #2C4497;
+	color: #FEFF81;
+	padding-left: 60px;
+	padding-right: 29px;
+	padding-top: 40px;
+	padding-bottom: 1px;
+	top: 25px;
+	
+}
+	
+td8{
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 880px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;
+}
+
+td16 {
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 812px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 50px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;
+
+
+
+}
+
+td17{
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 742px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;
+
+
+}
+
+td18{
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 694px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;
+
+
+}
+
+td19 {
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 625px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;	
+
+}
+
+td20 {
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 580px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;	
+
+
+}
+
+td21{
+	font-family: "Ariel", sans-serif;
+	position: relative;
+	right: 511px;
+	background-color: #8B8BAC;
+	color: white;
+	padding-left: 70px;
+	padding-right: 60px;
+	padding-bottom: 7px;
+	padding-top: 55px;
+	top: 40px;
+	bottom: 100px;
+	border-spacing: 50px;	
+
+
+}
+
+td14 {
+	position: relative;
+	right: 20px;
+	bottom: 25px;
+	
+
+}
+
+td15 {
+	position: relative;
+	right: 32px;
+	bottom: 40px;
+
+}
+
+td9 {
+	background-color: #A12B76;
+	background-image: linear-gradient(to bottom, #A12B76, #FBC1C9 6%);
+	position: absolute;
+	height: 1180px;
+	width: 426px;
+	left: 0px;
+	top: 222px;
+	
+}
+
+td13 {
+	background-color: #FFEDAB;
+	background-image: linear-gradient(to bottom, #FFEDAB, white 6%);
+	height: 1180px;
+	left: 425px;
+	top: 222px;
+	position: absolute;
+	right: 325px;
+
+}
+
+td10 {
+	position: relative;
+	left: 20px;
+	
+}
+
+td11 {
+	position: relative;
+	left: 150px;
+
+
+}
+
+p1 {
+	text-decoration: overline;
+
+}
+	
+
+footer {
+
+	position: absolute;
+	
+	left: 0px;
+	bottom: 20px;
+	top: 1380px;
+	
+}
+
+td12 {
+	position: relative;
+	left: 109px;
+	bottom: 75px;
+
+
+
+}
+
+img1 {
+	position: relative;
+	left: 0px;
+	display: inline-block;
+	border: 2px solid #DAB5A5;
+	height: 389px;
+	width: 495px;
+	padding: 0px;
+	
+	
+}
+
+img2 {
+	position: relative;
+	left: 20px;
+	display: inline-block;
+	border: 2px solid #FB1AEC;
+	height: 163px;
+	width: 260px;
+	padding: 0px;
+	
+}
